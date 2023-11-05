@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F6FDC3;
+  /* background-image: url("https://www.scoutmag.ph/wp-content/uploads/2021/04/photo6080107050731416364.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+#top,
+#menu {
+  text-decoration: none;
+}
+
+.title {
+  text-decoration: underline;
+  color:darkmagenta;
+  background-color: #B1AE91;
+  text-align: center;
+  font-size: 42px;
+}
+
+.image {
+  margin: 0px 500px 0px 730px;
+}
+
+.small-description {
+  background-color: #B1AE91;
+  text-align: center;
+}
+
+.recipes-list {
+  text-decoration: none;
+}
+
+.buttons {
+  background-color: #CDFAD5;
+  text-align: center;
+}
+
+.ingredients {
+  background-color: #FFCF96;
+  font-size: 18px;
+}
+
+.instructions {
+  background-color: #CDFAD5;
+  font-size: 18px;
+}
+
+.image.adobo {
+  width: 435px;
+  height: auto;
+}
+
+.image.lumpia {
+  width: 430px;
+  height: 350px;
+}
+
+.image.sinigang {
+  width: 430px;
+  height: 500px;
+}
+
+.desc {
+  font-size: 22px;
+}
